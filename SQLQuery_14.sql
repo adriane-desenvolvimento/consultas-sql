@@ -1,0 +1,1 @@
+select * from snotas where ra = '10-2-03316' and IDTURMADISC = 26123
